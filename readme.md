@@ -14,7 +14,7 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
 ## 📌 Screenshot
 <br>
 
-![Screenshot](./screenshot/1.png "Template Screenshot")
+![Screenshot](./asset/screenshot.png "Template Screenshot")
 
 <br>
 
@@ -27,7 +27,7 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
     👉 How to use SVG images.
 
 
-## I took 4 hours to complete this project and I really enjoyed it 😊.
+## I took 7 hours to complete this project and I really enjoyed it 😊.
 
 ## 💬 Connect With Me
 
