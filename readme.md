@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://business-landing-site.vercel.app/
+https://vishal-kumaar.github.io/Project-12-Business-Landing-Page/
 
 # ✨ Project 12 : Business Landing Page ✨
 This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.
